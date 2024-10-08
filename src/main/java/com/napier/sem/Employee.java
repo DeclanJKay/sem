@@ -34,8 +34,11 @@ public class Employee
      */
     public String dept_name;
 
+
     /**
      * Employee's manager
      */
+    public String manager;
+
 }
 
